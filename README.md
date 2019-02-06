@@ -3,6 +3,7 @@ Vue.js adalah suatu librari Javascript yang digunakan untuk membangun antar muka
 <h3>Tentang Tugas</h3>
 Tugas ini adalah membuat 3 soal dan pilihan jawabannya. Ketika jawaban yang dipilih benar, maka nilai akan bertambah 1. Menggunakan @click.
 
+<img src="https://i.imgur.com/2tq7D2J.png"/>
 
 <h1>Dwiky Hardiansah</h1>
 <h1>XII RPL 3</h1>
